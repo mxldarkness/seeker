@@ -25,6 +25,10 @@ git clone https://github.com/mxldarkness/seeker
 
 
 
+cd seeker
+
+
+
 chmod +x install.sh
 
 
@@ -50,6 +54,9 @@ apt install python git
 
 
 git clone https://github.com/mxldarkness/seeker
+
+
+cd seeker
 
 
 
