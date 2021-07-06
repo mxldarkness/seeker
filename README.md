@@ -40,7 +40,7 @@ chmod +x install.sh
 
 
 
-DEBIAN/UBUNTU/KALI
+DEBIAN/UBUNTU/KALI/PARROT/MINT
 
 
 
