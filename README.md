@@ -10,3 +10,4 @@ apt install python git
 git clone https://github.com/mxldarkness/seeker
 chmod +x install.sh
 ./install.sh
+x
