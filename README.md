@@ -16,7 +16,7 @@ TERMUX:
 
 
 
-pkg install git python.
+pkg install git python
 
 
 
