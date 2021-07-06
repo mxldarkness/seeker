@@ -16,7 +16,8 @@ TERMUX:
 
 
 
-pkg install git
+pkg install git python.
+
 
 
 
@@ -57,4 +58,3 @@ chmod +x install.sh
 
 
 ./install.sh
-
